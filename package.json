@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nealyang/React-Express-Blog-Demo.git"
+    "url": "git+https://github.com/baoyuwubian/Commercialization.git"
   },
   "author": "Nealyang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nealyang/React-Express-Blog-Demo/issues"
+    "url": "https://github.com/baoyuwubian/Commercialization/issues"
   },
-  "homepage": "https://github.com/Nealyang/React-Express-Blog-Demo#readme",
+  "homepage": "https://github.com/baoyuwubian/Commercialization#readme",
   "dependencies": {
     "antd": "^2.13.1",
     "axios": "^0.16.2",
