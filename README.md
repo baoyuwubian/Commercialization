@@ -1,23 +1,12 @@
 # React技术栈实现 中鑫之宝产品化
-> 远程仓库链接 git remote add origin git@github.com:baoyuwubian/Commercialization.git
-git push origin master
-git commit -m '中鑫之宝产品化'
-git clone git@github.com:baoyuwubian/Commercialization.git
+
 > 项目地址：https://github.com/baoyuwubian/Commercialization
 
 > 技术栈：react、react-router4.x 、 react-redux 、 webpack3.x、 redux-saga 、 css-module 、 ES6 、babel...
 
->在慕课网看到相关视频，但是我等屌丝码农真心买不起这个价位的视频。有幸看到源代码，但是看到代码的我。。。也不是很苟同上面代码中react技术栈这一套使用方式。遂自己写了一个demo。
+>长时间观看react antd ，深有体会。遂自己写了一个demo。
 
----
 
-一同学习react、node的同学欢迎加入：
-
-Node.js技术交流群：209530601
-
-React技术栈：398240621
-
----
 
 ## 项目截图
 
