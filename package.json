@@ -23,7 +23,7 @@
   "homepage": "https://github.com/baoyuwubian/Commercialization#readme",
   "dependencies": {
     "antd": "^2.13.1",
-    "axios": "^0.16.2",
+    "sxios": "^0.16.2",
     "bluebird": "^3.5.0",
     "body-parser": "^1.18.0",
     "compression": "^1.7.0",
